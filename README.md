@@ -1,5 +1,9 @@
 # 15-vanilla-js-small-project
 
-learning js by appling it in small project
+``` link
+https://moataz9.github.io/profile_js_apps/
+```
 
-> plases make sure to play the files within a local sever
+learning js by applying it to a small project
+
+> Please make sure to play the files within a local server
